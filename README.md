@@ -2,14 +2,12 @@
 Now that you are part of redradix, you should know about how we roll. This is a very quick introduction to us and to our processes.
 
 #### Email
-You should have already set up a @redradix.com email address for you, forwarded to an email of your choice (normally gmail).
+You should have already set up a @redradix.com email address for you.
 
-Having a @redradix email will grant you some superpowers, like accessing the google groups list or bookshelf.
-
-You only have to configure your mail server to send email as the new address. For gmail you have a small guide here: [https://gist.github.com/fuzzyalej/4f89b4d558951d7f992e].
+Having a @redradix email will grant you some superpowers, like accessing the google groups list.
 
 #### Google groups list
-We have a private email list that we use to share more ‘formal’ stuff, like messages from The Founding Fathers(tm) or messages that should reach everyone. You can use the list sending an email to redradix@googlegroups.com, but please don’t send stupid stuff. 
+We have a private email list that we use to share more ‘formal’ stuff, like messages from The Founding Fathers(tm) or messages that should reach everyone. You can use the list sending an email to todos@redradix.com, but please don’t send stupid stuff. 
 
 #### Slack
 For our day-to-day communications we use Slack, whether you are going to remote, on vacation, if you want to share lunch or if you need something or just hang out. We try to divide the different chatter between different channels, but it’s always hard to do. You should be invited to the private channels that you belong to (and you can create your own channels), and the public channels are the following:
@@ -39,10 +37,8 @@ We use trello, a lot. It provides a lot of flexibility because the mechanism is 
 
 We have several different boards, both for internal processes, internal projects, and client projects. You should be part of the redradix team, to have access to all the boards.
 
-#### Bookshelf
-Bookshelf is the platform where we share our books, pdfs and documents. It’s accessible at http://bookshelf.redradix.com and you can only register if you have a @redradix.com email address. Please feel free to download all you need and upload technical documents that you feel might be interesting for everyone.
-
-Note that you are not allowed to share the files outside redradix, and might be considered an illegitimate action, depending on the file shared.
+#### Redradix Docs
+We tried to keep all the knowledge in one place. That place is http://docs.redradix.com. Ask Alex to create your account if you are not able to access.
 
 #### Social Networks
 We are not very social-network-savvy but we do use a couple of them, so it would be nice if you could help us grow and maintain a clean and interesting profile, sharing what you find interesting.
@@ -51,3 +47,6 @@ We are not very social-network-savvy but we do use a couple of them, so it would
 - [https://www.facebook.com/redradixcom]
 - [https://www.linkedin.com/company/2721175]
 - [https://coderwall.com/team/redradix]
+
+#### Days Off
+We all love our work, but sometimes we need to rest. If you need some days off, send an email to Juan and Cynthia asking for them. And don't forget to set your OOO message ( Settings > General > Vacation Responder ).
